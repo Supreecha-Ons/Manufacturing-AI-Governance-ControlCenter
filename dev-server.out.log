@@ -1,0 +1,12 @@
+
+> manufacturing-ai-cockpit@0.1.0 dev
+> next dev --port 3030 --hostname 127.0.0.1
+
+▲ Next.js 16.2.3 (Turbopack)
+- Local:         http://127.0.0.1:3030
+- Network:       http://127.0.0.1:3030
+✓ Ready in 822ms
+
+ GET / 200 in 1436ms (next.js: 1308ms, application-code: 128ms)
+ GET / 200 in 249ms (next.js: 20ms, application-code: 228ms)
+ GET /api/assets/RX-401/timeseries 200 in 1803ms (next.js: 1745ms, application-code: 58ms)

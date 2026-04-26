@@ -1,0 +1,38 @@
+# dependencies
+node_modules
+.pnp
+.pnp.*
+
+# next
+.next
+out
+
+# production
+build
+
+# local env
+.env
+.env*.local
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# prisma/sqlite
+dev.db
+dev.db-journal
+test.db
+test.db-journal
+
+# python
+.venv
+__pycache__
+*.pyc
+
+# test output
+coverage
+test-results
+playwright-report
