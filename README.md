@@ -6,9 +6,9 @@ The app demonstrates a practical petrochemical plant-floor AI enablement workflo
 fault and loss detection, low-code request triage, reusable automation templates,
 operator training, adoption tracking, and Manufacturing AI CoE escalation.
 
-## Why This Fits The Role
+## Practicing Skills
 
-| Job signal | Project evidence |
+| Skill used | Project evidence |
 |---|---|
 | Embedded AI enabler for plant teams | Operator-first cockpit and plant pain-point intake |
 | Low-code / no-code delivery | Power Apps, Power Automate, and KNIME-style blueprints |
